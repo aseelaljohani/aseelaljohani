@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter front-end developer with a solid background in AI and data analysis</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/aseelaljuhani/count.svg" />
+  <img src="https://profile-counter.glitch.me/aseelaljohani/count.svg" />
 </p>
 
 ---
@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aseelaljuhani&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aseelaljohani&show_icons=true&theme=radical)
 
 ---
 
